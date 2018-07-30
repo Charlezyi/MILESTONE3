@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/ButtonAnnoucements"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="25dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:text="Announcements"/>
+
+        <Button
+            android:id="@+id/ButtonEvents"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="25dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:text="Events"/>
+
+        <Button
+            android:id="@+id/ButtonFeedBack"
+            android:layout_width="375dp"
+            android:layout_height="64dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="154dp"
+            android:text="Feedback" />
+
+</RelativeLayout>

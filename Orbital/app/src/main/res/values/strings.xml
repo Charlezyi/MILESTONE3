@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"> iHONUS</string>
+    <string name="description">Description</string>
+    <string name="event_name">Event Name</string>
+</resources>
